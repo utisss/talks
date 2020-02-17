@@ -15,7 +15,7 @@ The slidesets from all of our past technical talks.
 
 ### Miscellaneous
 - **[The Darknet](The_Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
-- **[Using Static Analysis for Security]("Using_Static_Analysis_for_Security.pdf")** - Aaron Hurst, Synopsys [sponsor talk]
+- **[Using Static Analysis for Security](Using_Static_Analysis_for_Security.pdf)** - Aaron Hurst, Synopsys [sponsor talk]
 
 ### Networking
 - **[Networking](Networking.pdf)** - [Mason Davis](https://github.com/Mason-D)
