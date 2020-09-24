@@ -6,12 +6,14 @@ The slidesets from all of our past technical talks.
 
 ### Beginner Series
 - **[What is a CTF?](beginner-series/What-is-a-CTF.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
+- **[Linux for CTFs](beginner-series/Linux-for-CTFs.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Hardware
 - **[Hardware Hacking](Hardware-Hacking.pdf)** - [Daniel Jahren](https://github.com/beegbug)
 
 ### Miscellaneous
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
+- **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 
 ## 2019-2020
 
