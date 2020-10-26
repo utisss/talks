@@ -8,9 +8,11 @@ The slidesets from all of our past technical talks.
 - **[What is a CTF?](beginner-series/What-is-a-CTF.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[Linux for CTFs](beginner-series/Linux-for-CTFs.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
+- **[Forensics](beginner-series/Forensics.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Intermediate Binary Exploitation](Intermediate-Binary-Exploitation.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Hardware
 - **[Hardware Hacking](Hardware-Hacking.pdf)** - [Daniel Jahren](https://github.com/beegbug)
