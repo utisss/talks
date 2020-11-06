@@ -9,6 +9,7 @@ The slidesets from all of our past technical talks.
 - **[Linux for CTFs](beginner-series/Linux-for-CTFs.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
 - **[Forensics](beginner-series/Forensics.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
+- **[Networking 1](beginner-series/Networking-1.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
@@ -22,6 +23,9 @@ The slidesets from all of our past technical talks.
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[How Not To Run a CTF](How-Not-To-Run-a-CTF.pdf)** [Aaron Soto](https://twitter.com/_surefire_)
+
+### Networking
+- **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
 ### Web
 - **[JavaScript Engine Exploits](JavaScript-Engine-Exploitation.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
