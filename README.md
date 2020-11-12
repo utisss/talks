@@ -21,6 +21,7 @@ The slidesets from all of our past technical talks.
 
 ### Miscellaneous
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
+- **[Pentesting](Pentesting.pdf)** - [Alice Reuter](https://github.com/alicelambda)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[How Not To Run a CTF](How-Not-To-Run-a-CTF.pdf)** [Aaron Soto](https://twitter.com/_surefire_)
 
