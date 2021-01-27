@@ -1,23 +1,36 @@
 # ISSS Technical Talks
 
-The slidesets from all of our past technical talks. 
+The slidesets from all of our past technical talks.
 
 ## 2020-2021
 
 ### Beginner Series
 - **[What is a CTF?](beginner-series/What-is-a-CTF.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[Linux for CTFs](beginner-series/Linux-for-CTFs.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Cryptography 1](beginner-series/Cryptography-1.pdf)** - [Pooja Chivukula](https://github.com/poojachiv)
+- **[Forensics](beginner-series/Forensics.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
+- **[Networking 1](beginner-series/Networking-1.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Intermediate Binary Exploitation](Intermediate-Binary-Exploitation.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Linux Kernel Pwning](Linux-Kernel-Pwning.pdf)** - [Joshua Wong](https://github.com/JWong101)
 
 ### Hardware
 - **[Hardware Hacking](Hardware-Hacking.pdf)** - [Daniel Jahren](https://github.com/beegbug)
 
 ### Miscellaneous
-- **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
+- **[How Not To Run a CTF](How-Not-To-Run-a-CTF.pdf)** [Aaron Soto](https://twitter.com/_surefire_) (Guest speaker)
+- **[Pentesting](Pentesting.pdf)** - [Alice Reuter](https://github.com/alicelambda)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
+- **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
+
+### Networking
+- **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
+
+### Reverse Engineering
+- **[How To Use `angr`](How-To-Use-angr.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Web
 - **[JavaScript Engine Exploits](JavaScript-Engine-Exploitation.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
