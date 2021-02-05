@@ -28,6 +28,7 @@ The slidesets from all of our past technical talks.
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
 
 ### Networking
+- **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
 ### Reverse Engineering
