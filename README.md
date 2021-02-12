@@ -11,6 +11,7 @@ The slidesets from all of our past technical talks.
 - **[Forensics](beginner-series/Forensics.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[Networking 1](beginner-series/Networking-1.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
+- **[Intro to Assembly](beginner-series/Intro-to-Assembly.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
@@ -28,6 +29,7 @@ The slidesets from all of our past technical talks.
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
 
 ### Networking
+- **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
 ### Reverse Engineering
