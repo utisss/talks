@@ -15,6 +15,7 @@ The slidesets from all of our past technical talks.
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Intermediate Binary Exploitation](Intermediate-Binary-Exploitation.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Blind Return-Oriented Programming](Blind-Return-Oriented-Programming.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Linux Kernel Pwning](Linux-Kernel-Pwning.pdf)** - [Joshua Wong](https://github.com/JWong101)
 
 ### Hardware
