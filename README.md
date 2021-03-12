@@ -30,6 +30,7 @@ The slidesets from all of our past technical talks.
 
 ### Networking
 - **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
+- **[TLS](TLS.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 - **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
 ### Reverse Engineering
