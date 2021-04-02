@@ -28,7 +28,7 @@ The slidesets from all of our past technical talks.
 - **[Pentesting](Pentesting.pdf)** - [Alice Reuter](https://github.com/alicelambda)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
-- **[HTTP Request Smuggling]("HTTP Request Smuggling.pptx")** - [Jonathan Fisher](https://github.com/jfish7) (Guest speaker)
+- **[HTTP Request Smuggling](HTTP&#32;Request&#32;Smuggling.pptx)** - [Jonathan Fisher](https://github.com/jfish7) (Guest speaker)
 
 ### Networking
 - **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
