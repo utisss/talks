@@ -12,6 +12,7 @@ The slidesets from all of our past technical talks.
 - **[Networking 1](beginner-series/Networking-1.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
 - **[Intro to Assembly](beginner-series/Intro-to-Assembly.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Cryptography 2](beginner-series/Cryptography-2.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
@@ -27,6 +28,7 @@ The slidesets from all of our past technical talks.
 - **[Pentesting](Pentesting.pdf)** - [Alice Reuter](https://github.com/alicelambda)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
+- **[HTTP Request Smuggling]("HTTP Request Smuggling.pptx")** - [Jonathan Fisher](https://github.com/jfish7) (Guest speaker)
 
 ### Networking
 - **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
