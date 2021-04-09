@@ -20,6 +20,9 @@ The slidesets from all of our past technical talks.
 - **[Blind Return-Oriented Programming](Blind-Return-Oriented-Programming.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Linux Kernel Pwning](Linux-Kernel-Pwning.pdf)** - [Joshua Wong](https://github.com/JWong101)
 
+### Cryptography
+- **[Blockchain](Blockchain.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
+
 ### Hardware
 - **[Hardware Hacking](Hardware-Hacking.pdf)** - [Daniel Jahren](https://github.com/beegbug)
 
