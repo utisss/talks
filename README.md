@@ -24,6 +24,9 @@ The slidesets from all of our past technical talks.
 ### Cryptography
 - **[Blockchain](Blockchain.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 
+### Forensics
+- **[Data Recovery](Data-Recovery.pdf)** - [Aya "the Awesome" Abdelgawad](https://github.com/ayaabdelgawad)
+
 ### Hardware
 - **[Hardware Hacking](Hardware-Hacking.pdf)** - [Daniel Jahren](https://github.com/beegbug)
 
