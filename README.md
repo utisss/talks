@@ -13,6 +13,7 @@ The slidesets from all of our past technical talks.
 - **[Web 1](beginner-series/Web-1.pdf)** - [Garrett Gu](https://github.com/garrettgu10)
 - **[Intro to Assembly](beginner-series/Intro-to-Assembly.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Cryptography 2](beginner-series/Cryptography-2.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
+- **[Binary Exploitation](beginner-series/Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Binary Exploitation
 - **[Intro to Binary Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
