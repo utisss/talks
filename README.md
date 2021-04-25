@@ -20,6 +20,7 @@ The slidesets from all of our past technical talks.
 - **[Intermediate Binary Exploitation](Intermediate-Binary-Exploitation.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Blind Return-Oriented Programming](Blind-Return-Oriented-Programming.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 - **[Linux Kernel Pwning](Linux-Kernel-Pwning.pdf)** - [Joshua Wong](https://github.com/JWong101)
+- **[Intro to Heap Exploitation](Intro-to-Binary.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
 
 ### Cryptography
 - **[Blockchain](Blockchain.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
