@@ -36,7 +36,7 @@ The slidesets from all of our past technical talks.
 - **[Pentesting](Pentesting.pdf)** - [Alice Reuter](https://github.com/alicelambda)
 - **[Personal Security](Personal-Security.pdf)** - [Alex Bellon](https://github.com/alex-bellon)
 - **[The Darknet](Darknet.pdf)** - [Joshua Wong](https://github.com/JWong101)
-- **[HTTP Request Smuggling](HTTP&#32;Request&#32;Smuggling.pptx)** - [Jonathan Fisher](https://github.com/jfish7) (Guest speaker)
+- **[Cybersecurity Policy](Cybersecurity-Policy.pdf)** - Abby Krishnan and Ritvik Annam from [Texas Civic Tech Project](https://txctp.org/) (Guest Speakers)
 
 ### Networking
 - **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
@@ -48,6 +48,7 @@ The slidesets from all of our past technical talks.
 
 ### Web
 - **[JavaScript Engine Exploits](JavaScript-Engine-Exploitation.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
+- **[HTTP Request Smuggling](HTTP&#32;Request&#32;Smuggling.pptx)** - [Jonathan Fisher](https://github.com/jfish7) from Praetorian (Guest speaker)
 
 ## 2019-2020
 
