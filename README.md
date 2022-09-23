@@ -45,6 +45,7 @@ The slidesets from all of our past technical talks.
 
 ### Reverse Engineering
 - **[How To Use `angr`](How-To-Use-angr.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
+- **[Angr (2022)](Angr-2022.pdf)** - [Tristan Wisepape (author)](https://github.com/qwetboy10) and [Daniel Parks (speaker)](https://gitlab.com/danielrparks)
 
 ### Web
 - **[JavaScript Engine Exploits](JavaScript-Engine-Exploitation.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
