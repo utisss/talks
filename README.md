@@ -42,6 +42,7 @@ The slidesets from all of our past technical talks.
 - **[HTTPS Side Channels](HTTPS-Side-Channels.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[TLS](TLS.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
 - **[WiFi](WiFi.pdf)** - [Soham Roy](https://github.com/Soham3-1415)
+- **[Enumerate like a legend w/ Nmap](intro-to-nmap.pdf)** - [Aly A](https://github.com/0xh0russ)
 
 ### Reverse Engineering
 - **[How To Use `angr`](How-To-Use-angr.pdf)** - [Nathan Huckleberry](https://github.com/Nathan-Huckleberry)
