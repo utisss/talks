@@ -51,6 +51,7 @@ The slidesets from all of our past technical talks.
 ### Web
 - **[JavaScript Engine Exploits](JavaScript-Engine-Exploitation.pdf)** - [Matthew Pabst](https://github.com/PabstMatthew)
 - **[HTTP Request Smuggling](HTTP&#32;Request&#32;Smuggling.pptx)** - [Jonathan Fisher](https://github.com/jfish7) from Praetorian (Guest speaker)
+- **[Smashing the Web for Fun and Profit: Intro to Web Testing](smashing_the_web_for_fun_and_profit.pdf)** - [Aly](https://github.com/0xh0russ)
 
 ## 2019-2020
 
